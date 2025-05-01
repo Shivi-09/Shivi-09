@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 I am shivani.
+Major: Computer Science
 
-**I am Computer science student. I’m currently learning JAVA. I am going to do projects in my subject JAVA for this semester.
+**I’m currently learning JAVA. I am going to do projects in my subject JAVA for this semester.
 
 - Project 1: I got brief explaination regarding my  project 1 that is based on basic functionalities of the java such as loop, nested loop and methods. I am learning how to implement for loop, conditional statements, do while loop while loop in JAVA.
 
